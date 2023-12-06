@@ -1,0 +1,5 @@
+.backup
+*.o
+03/myexit
+03/myexit_but_returning_one
+03/myexit_but_with_no_syscall
